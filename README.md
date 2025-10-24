@@ -76,9 +76,9 @@ The main goal of this analysis is to:
 ## 🚀 How to Run the Notebook
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/Diwali_Sales_Analysis.git
-    ```
+```
+    git clone https://github.com/<your-username>/Diwali_Sales_Analysis.git
+```
 ---
 
 ## Navigate into the project folder
