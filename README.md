@@ -88,7 +88,7 @@ The main goal of this analysis is to:
 ---
 ## Install required dependencies:
 ```
-`   pip install -r requirements.txt
+  pip install -r requirements.txt
 ```
 ---
 ## Open Jupyter Notebook:
